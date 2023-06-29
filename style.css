@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: grey;
+    margin-top: 150px;
+    
+}
+button{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+    box-shadow: 0 0 3px;
+    
+}
+#result{
+    margin-bottom: 20px;
+    height: 40px;
+    width: 200px;
+    background: wheat;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    font-style: normal;
+    padding-left: 10px;
+}
+#clear{
+    background: red;
+    color: white;
+}
+#r{
+    margin-bottom: 5px;
+}
